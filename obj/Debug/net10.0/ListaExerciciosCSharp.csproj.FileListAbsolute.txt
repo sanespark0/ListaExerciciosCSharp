@@ -1,0 +1,14 @@
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\bin\Debug\net10.0\ListaExerciciosCSharp.exe
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\bin\Debug\net10.0\ListaExerciciosCSharp.deps.json
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\bin\Debug\net10.0\ListaExerciciosCSharp.runtimeconfig.json
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\bin\Debug\net10.0\ListaExerciciosCSharp.dll
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\bin\Debug\net10.0\ListaExerciciosCSharp.pdb
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.AssemblyInfo.cs
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.dll
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\refint\ListaExerciciosCSharp.dll
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.pdb
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ListaExerciciosCSharp.genruntimeconfig.cache
+C:\Users\ojosa\OneDrive\Desktop\Atividades ADS\ListaExerciciosCSharp\obj\Debug\net10.0\ref\ListaExerciciosCSharp.dll
